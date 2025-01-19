@@ -1,9 +1,6 @@
 package year2023
 
 import utils.*
-import kotlin.IllegalStateException
-import kotlin.math.max
-import kotlin.math.min
 
 fun main() = test(
     ::part1,
